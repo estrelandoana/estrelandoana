@@ -65,8 +65,9 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 
 # Github Status
 
-[![Github Status](https://raw.githubusercontent.com/mendes-jv/github-stats-transparent/output/generated/overview.svg)](#)
-[![Github Languages Status](https://raw.githubusercontent.com/mendes-jv/github-stats-transparent/output/generated/languages.svg)](#)
+  <a href="https://github.com/estrelandoana">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=estrelandoana&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estrelandoana&layout=compact&langs_count=7&theme=neon"/>
 
 # 42 School Projects
 
@@ -75,4 +76,3 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 ### Piscine
 
 [![Piscine](https://github.com/estrelandoana/estrelandoana/assets/142838476/ebbd87a0-fb99-44b1-bdf8-9dcf56f00c20)](https://github.com/mendes-jv/libft "125/100")
-
