@@ -47,7 +47,20 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23F24E1E?&logo=HTML5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?&style=flat&logo=sqlite&logoColor=white)
+![UML](https://img.shields.io/badge/UML-5C2D91?style=flat)
+![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-%2300599C.svg?style=flat&logo=icloud&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2320232a.svg?&logo=adobephotoshop&logoColor=dark-blue)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-%23EE3D8F.svg?&logo=adobeindesign&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?&style=flat&logo=blender&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)
 
 # Github Status
@@ -62,3 +75,4 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 ### Piscine
 
 [![Piscine](https://github.com/estrelandoana/estrelandoana/assets/142838476/ebbd87a0-fb99-44b1-bdf8-9dcf56f00c20)](https://github.com/mendes-jv/libft "125/100")
+
