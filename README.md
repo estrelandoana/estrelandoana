@@ -1,4 +1,5 @@
 <div align="center">
+<hr>
 
 # About Me
 
@@ -27,6 +28,7 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 #HumanCoder #ProgrammingIntern #DesignThinker #WorldExplorer #42SPPioneer #TechInnovator #CreativeCoder #GlobalTechTrekker #42SPSpirit
 
 <div align="center">
+<hr>
 
 # Where To Find Me
 
@@ -36,6 +38,7 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 
 [![wakatime](https://wakatime.com/badge/user/95b593f1-ae41-47db-a170-81f83e041dd2.svg)](https://wakatime.com/@95b593f1-ae41-47db-a170-81f83e041dd2)
 [![42 Game](https://img.shields.io/badge/Game-profile-cc99ff?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/apaula-l)
+<hr>
 
 # Languages And Tools I Have Used
 
@@ -62,17 +65,25 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)
+<hr>
 
 # Github Status
 
   <a href="https://github.com/estrelandoana">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=estrelandoana&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estrelandoana&layout=compact&langs_count=7&theme=neon"/>
-
+<hr>
+    
 # 42 School Projects
 
 [![42SP](https://img.shields.io/badge/Intra-apaula_l-cc99ff?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/apaula-l)
+</div>
 
+<div style="text-align: justify;">
+  
 ### Piscine
+</div>
+<div align="center">
 
 [![Piscine](https://github.com/estrelandoana/estrelandoana/assets/142838476/ebbd87a0-fb99-44b1-bdf8-9dcf56f00c20)](https://github.com/mendes-jv/libft "125/100")
+<hr>
