@@ -69,8 +69,8 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 
 # Github Status
 
-[![Github Status](https://raw.githubusercontent.com/estrelandoana/github-stats-transparent/output/generated/overview.svg)](#)
-[![Github Languages Status](https://raw.githubusercontent.com/estrelandoana/github-stats-transparent/output/generated/languages.svg)](#)
+[![Github Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/generated/overview.svg)](#)
+[![Github Languages Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/generated/languages.svg)](#)
 <hr>
     
 # 42 School Projects
