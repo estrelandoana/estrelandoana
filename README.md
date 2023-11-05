@@ -69,9 +69,8 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 
 # Github Status
 
-  <a href="https://github.com/estrelandoana">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=estrelandoana&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estrelandoana&layout=compact&langs_count=7&theme=neon"/>
+[![Github Status](https://raw.githubusercontent.com/estrelandoana/github-stats-transparent/output/generated/overview.svg)](#)
+[![Github Languages Status](https://raw.githubusercontent.com/estrelandoana/github-stats-transparent/output/generated/languages.svg)](#)
 <hr>
     
 # 42 School Projects
