@@ -84,5 +84,13 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 </div>
 <div align="center">
 
-[![Piscine](https://github.com/estrelandoana/estrelandoana/assets/142838476/ebbd87a0-fb99-44b1-bdf8-9dcf56f00c20)](https://github.com/mendes-jv/libft "125/100")
+[![Piscine](https://github.com/estrelandoana/estrelandoana/assets/142838476/ebbd87a0-fb99-44b1-bdf8-9dcf56f00c20)](https://github.com/estrelandoana/Piscina42)
+</div>
+<div style="text-align: justify;">
+  
+### 42cursus: Part 1
+</div>
+<div align="center">
+
+[![Libft](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/estrelandoana/Libft "125/100")
 <hr>
