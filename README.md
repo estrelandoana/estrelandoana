@@ -37,7 +37,7 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?&logo=GMail&logoColor=white)](mailto:apaula-l@student.42sp.org.br)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?&logo=Discord&logoColor=white)](https://discordapp.com/users/831148742602129418)
 
-[![wakatime](https://wakatime.com/badge/user/95b593f1-ae41-47db-a170-81f83e041dd2.svg)](https://wakatime.com/@95b593f1-ae41-47db-a170-81f83e041dd2)
+[![wakatime](https://wakatime.com/badge/user/018c10e4-a64a-459f-ba8c-d9cdcdb29448.svg)](https://wakatime.com/@018c10e4-a64a-459f-ba8c-d9cdcdb29448)
 [![42 Game](https://img.shields.io/badge/Game-profile-cc99ff?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/apaula-l)
 <hr>
 
@@ -96,5 +96,3 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 [![Libft](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/estrelandoana/Libft "125/100")
 <hr>
 
-</div>
-![Snake Animation](https://github.com/estrelandoana/estrelandoana/blob/output/github-contribution-grid-snake.svg)
