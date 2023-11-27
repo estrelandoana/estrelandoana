@@ -33,6 +33,7 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 # Where To Find Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ohama/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/estrelandoana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?&logo=GMail&logoColor=white)](mailto:apaula-l@student.42sp.org.br)
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?&logo=Discord&logoColor=white)](https://discordapp.com/users/831148742602129418)
 
@@ -94,3 +95,6 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 
 [![Libft](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/estrelandoana/Libft "125/100")
 <hr>
+
+</div>
+![Snake Animation](https://github.com/estrelandoana/estrelandoana/blob/output/github-contribution-grid-snake.svg)
