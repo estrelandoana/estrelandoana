@@ -1,5 +1,4 @@
 <div align="center">
-<hr>
 
 # About Me
 
@@ -89,28 +88,27 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 </div>
 <div style="text-align: justify;">
   
-### 42cursus: Part 1
+### 42cursus: Entrando em Órbita
 </div>
 <div align="center">
 
+![Entrando em Órbita](https://game.42sp.org.br/static/assets/achievements/phase_onen.png)
+</div>
+<div align="justify">
+
 [![Libft](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/estrelandoana/Libft "125/100")
+</div>
+
+<div align="center">
 <hr>
     
 # Microsoft Learn
 
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/anaohama)
-
 </div>
-
 <div style="text-align: justify;">
-  
-### GitHub Universe 2023 Cloud Skills Challenge
-</div>
-<div align="center">
 
 [![GitHub Universe 2023 Cloud Skills Challenge](https://learn.microsoft.com/en-us/training/achievements/github-universe-2023-cloud-skills-challenge.svg)](https://github.com/estrelandoana/)
 </div>
 <div style="text-align: justify;">
 <hr>
-
-
