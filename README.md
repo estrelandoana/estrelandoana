@@ -48,6 +48,8 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 ![Github](https://img.shields.io/badge/-Github-%2320232a.svg?&logo=Github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/C%23-%2300599C.svg?&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-%23F24E1E?&logo=HTML5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
