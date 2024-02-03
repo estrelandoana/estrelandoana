@@ -97,16 +97,6 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 <div align="center">
 <hr>
 
-# Github Status
-
-[![Github Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/master/generated/overview.svg)](#)
-[![Github Languages Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/master/generated/languages.svg)](#)
-
-![](https://img.shields.io/badge/You've_been_spotted!-white?logoColor=black&style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=estrelandoana&color=ff69b4&style=for-the-badge&abbreviated=true)
-
-<hr>
-
 # Microsoft Learn
 
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/anaohama)
@@ -118,5 +108,17 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 <div style="text-align: justify;">
 <hr>
 </div>
+
+<div align="center">
+
+# Github Status
+
+[![Github Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/master/generated/overview.svg)](#)
+[![Github Languages Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/master/generated/languages.svg)](#)
+
+![](https://img.shields.io/badge/You've_been_spotted!-white?logoColor=black&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=estrelandoana&color=ff69b4&style=for-the-badge&abbreviated=true)
+
+<hr>
 
 > “Do, or do not. There is no “try” — Yoda
