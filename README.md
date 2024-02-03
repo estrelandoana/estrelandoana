@@ -39,10 +39,10 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 ![Static Badge](https://img.shields.io/badge/TOOLS:-white?logoColor=black&style=for-the-badge) ![Vim](https://img.shields.io/badge/-Vim-green?&logo=VIM&logoColor=black&style=for-the-badge) ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?&logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white&style=for-the-badge) ![Photoshop](https://img.shields.io/badge/Photoshop-%2320232a.svg?&logo=adobephotoshop&logoColor=dark-blue&style=for-the-badge) ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?&logo=adobeillustrator&logoColor=white&style=for-the-badge) ![InDesign](https://img.shields.io/badge/InDesign-%23EE3D8F.svg?&logo=adobeindesign&logoColor=white&style=for-the-badge) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white) ![Github](https://img.shields.io/badge/-Github-%2320232a.svg?&logo=Github&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-%23F24E1E?&logo=Git&logoColor=white&style=for-the-badge)
 
 
-![Static Badge](https://img.shields.io/badge/DISTROS:-white?logoColor=black&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black&style=for-the-badge)
-
-
 ![Static Badge](https://img.shields.io/badge/PARADIGMS:-white?logoColor=black&style=for-the-badge) ![POO](https://img.shields.io/badge/⚙️%20POO-%2319755D.svg?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAjElEQVR42mJ8fPjPwPAAwAB/AMN+wGdFQFZgImUarMiAOhAfv8aApcELQKmggwAULoJk0nLgAK3lEZqLAAwBLv4g7JYwFAAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge) ![Métodos Ágeis](https://img.shields.io/badge/🏃‍♂️%20M%C3%A9todos%20%C3%81geis-%2300C7B7.svg?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAiklEQVR42mJ8fPjPwPAAwAB/AMN+wGdFQFZgImUarMiAOhAfv8aApcELQKmggwAULoJk0nLgAK3lEZqLAAwBLv4g7JYwFAAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge)
+
+
+![Static Badge](https://img.shields.io/badge/DISTROS:-white?logoColor=black&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black&style=for-the-badge)
 
 </div>
 
