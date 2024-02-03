@@ -29,7 +29,27 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 <div align="center">
 <hr>
 
-# Where To Find Me
+# Tech Stack
+</div>
+<div align= "justify">
+
+![Static Badge](https://img.shields.io/badge/LANGS:-white?logoColor=black&style=for-the-badge) ![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&logo=c%2B%2B&logoColor=white&style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-%2300599C.svg?&logo=c-sharp&logoColor=white&style=for-the-badge) ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?&logo=gnu-bash&logoColor=white&style=for-the-badge) ![HTML](https://img.shields.io/badge/-HTML-%23F24E1E?&logo=HTML5&logoColor=white&style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&logo=css3&logoColor=white&style=for-the-badge) ![Makefile](https://img.shields.io/badge/Makefile-%2300599C.svg?&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black&style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?&logo=sqlite&logoColor=white&style=for-the-badge) ![UML](https://img.shields.io/badge/UML-5C2D91?&style=for-the-badge) ![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-%2300599C.svg?&logo=icloud&logoColor=white&style=for-the-badge)
+
+
+![Static Badge](https://img.shields.io/badge/TOOLS:-white?logoColor=black&style=for-the-badge) ![Vim](https://img.shields.io/badge/-Vim-green?&logo=VIM&logoColor=black&style=for-the-badge) ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?&logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-%23F24E1E?&logo=Git&logoColor=white&style=for-the-badge) ![Github](https://img.shields.io/badge/-Github-%2320232a.svg?&logo=Github&logoColor=white&style=for-the-badge) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white&style=for-the-badge) ![Photoshop](https://img.shields.io/badge/Photoshop-%2320232a.svg?&logo=adobephotoshop&logoColor=dark-blue&style=for-the-badge) ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?&logo=adobeillustrator&logoColor=white&style=for-the-badge) ![InDesign](https://img.shields.io/badge/InDesign-%23EE3D8F.svg?&logo=adobeindesign&logoColor=white&style=for-the-badge) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+
+![Static Badge](https://img.shields.io/badge/DISTROS:-white?logoColor=black&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black&style=for-the-badge)
+
+
+![Static Badge](https://img.shields.io/badge/PARADIGMS:-white?logoColor=black&style=for-the-badge) ![POO](https://img.shields.io/badge/⚙️%20POO-%2319755D.svg?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAjElEQVR42mJ8fPjPwPAAwAB/AMN+wGdFQFZgImUarMiAOhAfv8aApcELQKmggwAULoJk0nLgAK3lEZqLAAwBLv4g7JYwFAAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge) ![Métodos Ágeis](https://img.shields.io/badge/🏃‍♂️%20M%C3%A9todos%20%C3%81geis-%2300C7B7.svg?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAiklEQVR42mJ8fPjPwPAAwAB/AMN+wGdFQFZgImUarMiAOhAfv8aApcELQKmggwAULoJk0nLgAK3lEZqLAAwBLv4g7JYwFAAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge)
+
+</div>
+
+<div align="center">
+<hr>
+
+# Socials
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ohama/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/estrelandoana/)
@@ -38,51 +58,13 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 
 [![wakatime](https://wakatime.com/badge/user/018c10e4-a64a-459f-ba8c-d9cdcdb29448.svg)](https://wakatime.com/@018c10e4-a64a-459f-ba8c-d9cdcdb29448)
 [![42 Game](https://img.shields.io/badge/Game-profile-cc99ff?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/apaula-l)
-<hr>
 
-# Languages And Tools I Have Used
-
-![Vim](https://img.shields.io/badge/-Vim-green?&logo=VIM&logoColor=black)
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?&logo=Visual%20Studio%20Code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F24E1E?&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-%2320232a.svg?&logo=Github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%2300599C.svg?&logo=c-sharp&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?&logo=gnu-bash&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-%23F24E1E?&logo=HTML5&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&logo=css3&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-%2300599C.svg)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?&style=flat&logo=sqlite&logoColor=white)
-![UML](https://img.shields.io/badge/UML-5C2D91?style=flat)
-![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-%2300599C.svg?style=flat&logo=icloud&logoColor=white)
-![POO](https://img.shields.io/badge/⚙️%20POO-%2319755D.svg?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAjElEQVR42mJ8fPjPwPAAwAB/AMN+wGdFQFZgImUarMiAOhAfv8aApcELQKmggwAULoJk0nLgAK3lEZqLAAwBLv4g7JYwFAAAAAElFTkSuQmCC&logoColor=white)
-![Métodos Ágeis](https://img.shields.io/badge/🏃‍♂️%20M%C3%A9todos%20%C3%81geis-%2300C7B7.svg?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAiklEQVR42mJ8fPjPwPAAwAB/AMN+wGdFQFZgImUarMiAOhAfv8aApcELQKmggwAULoJk0nLgAK3lEZqLAAwBLv4g7JYwFAAAAAElFTkSuQmCC&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2320232a.svg?&logo=adobephotoshop&logoColor=dark-blue)
-![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?&logo=adobeillustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-%23EE3D8F.svg?&logo=adobeindesign&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?&style=flat&logo=blender&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)
-<hr>
-
-# Github Status
-
-[![Github Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/master/generated/overview.svg)](#)
-[![Github Languages Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/master/generated/languages.svg)](#)
 <hr>
     
 # 42 School Projects
 
 [![42SP](https://img.shields.io/badge/Intra-apaula_l-cc99ff?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/apaula-l)
 </div>
-
 <div style="text-align: justify;">
   
 ### Piscine
@@ -93,7 +75,7 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 </div>
 <div style="text-align: justify;">
   
-### 42cursus: Entrando em Órbita
+### 42cursus: Entering Orbit
 </div>
 <div align="center">
 
@@ -101,12 +83,30 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 </div>
 <div align="justify">
 
-[![Libft](https://game.42sp.org.br/static/assets/achievements/libftm.png)](https://github.com/estrelandoana/Libft "125/100")
-</div>
+<a href="https://github.com/estrelandoana/Libft" title="125/100">
+  <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" alt="Libft" width="85" height="85">
+</a>
+<a href="https://github.com/estrelandoana/GNL" title="125/100">
+  <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="GNL" width="85" height="85">
+</a>
+<a href="https://github.com/estrelandoana/Prinft" title="107/100">
+  <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="GNL" width="85" height="85">
+</a>
 
+</div>
 <div align="center">
 <hr>
-    
+
+# Github Status
+
+[![Github Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/master/generated/overview.svg)](#)
+[![Github Languages Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/master/generated/languages.svg)](#)
+
+![](https://img.shields.io/badge/You've_been_spotted!-white?logoColor=black&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=estrelandoana&color=ff69b4&style=for-the-badge&abbreviated=true)
+
+<hr>
+
 # Microsoft Learn
 
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/anaohama)
@@ -117,3 +117,6 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 </div>
 <div style="text-align: justify;">
 <hr>
+</div>
+
+> “Do, or do not. There is no “try” — Yoda
