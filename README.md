@@ -95,7 +95,49 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 
 </div>
 <div align="center">
+
+# DIO
+
+[![DIO](https://img.shields.io/badge/DIO-lana__ohama-4E5D94?style=flat&logo=dio&logoColor=white)](https://www.dio.me/users/lana_ohama)
+</div>
+<div style="text-align: justify;">
+
+### Potência Tech iFood - Programação do Zero
+</div>
+<div align="center">
+<a href="https://github.com/estrelandoana/dio-lab-open-source" title="Contrinuindo em um Projeto Open Source no Github">
+  <img src="https://hermes.dio.me/lab_projects/badges/e8311210-f4c6-4c84-9d82-315ed13ff027.png" alt="Contrinuindo em um Projeto Open Source no Github" width="85" height="85">
+</a>
+<a href="https://github.com/estrelandoana/Classificador-de-Nivel-de-Heroi" title="lassificador de Nível de Herói">
+  <img src="https://hermes.dio.me/lab_projects/badges/1dfdfae1-29f7-4b30-9f88-6aaee163aae9.png" alt="Classificador de Nível de Herói" width="85" height="85">
+</a>
+<a href="https://github.com/estrelandoana/Calculadora-de-Partidas-Rankeadas" tittle="Calculadora de Partidas Rankeadas">
+  <img src="https://hermes.dio.me/lab_projects/badges/e0e576ce-268c-4d92-96cc-7092d6962c0b.png" alt="Calculadora de Partidas Rankeadas" width="85" height="85">
+</a>
+<a href="https://github.com/estrelandoana/Calculadora-de-Partidas-Rankeadas" tittle="Escrevendo as Classes de Um Jogo">
+  <img src="https://hermes.dio.me/lab_projects/badges/0ac3357b-0b1d-4b81-b945-b9c31ea976ef.png" alt="Escrevendo as Classes de Um Jogo" width="85" height="85">
+</a>
+</div>
+<div style="text-align: justify;">
+
+### Decola Tech 2024
+</div>
+<div align="center">
+<a href="https://github.com/estrelandoana/trilha-net-fundamentos-desafio" title="Construindo um Sistema para um estacionamento com C#">
+  <img src="https://hermes.dio.me/lab_projects/badges/daa34548-f7bf-4d9a-82df-e33c46b24ddb.png" alt="Construindo um Sistema para um estacionamento com C#" width="85" height="85">
+</a>
+<a href="https://github.com/estrelandoana/trilha-net-poo-desafio" title="Criando um Sistema e Abstraindo um Celular com POO em C#">
+  <img src="https://hermes.dio.me/lab_projects/badges/40375fce-c6d6-48bc-ba60-1bea0781440e.png" alt="Criando um Sistema e Abstraindo um Celular com POO em C#" width="85" height="85">
+</a>
+<a href="https://github.com/estrelandoana/trilha-net-testes-unitarios-desafio" tittle="Implementando Validações de Testes Unitários com C#">
+  <img src="https://hermes.dio.me/lab_projects/badges/6e7b18f0-661d-4e29-bee6-0235848a3ef5.png" alt="Implementando Validações de Testes Unitários com C#" width="85" height="85">
+</a>
+</div>
+<div style="text-align: justify;">
 <hr>
+</div>
+
+<div align="center">
 
 # Microsoft Learn
 
@@ -105,11 +147,9 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 
 [![GitHub Universe 2023 Cloud Skills Challenge](https://learn.microsoft.com/en-us/training/achievements/github-universe-2023-cloud-skills-challenge.svg)](https://github.com/estrelandoana/)
 </div>
-<div style="text-align: justify;">
-<hr>
-</div>
 
 <div align="center">
+<hr>
 
 # Github Status
 
