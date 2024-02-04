@@ -49,18 +49,6 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 <div align="center">
 <hr>
 
-# Socials
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ohama/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/estrelandoana/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?&logo=GMail&logoColor=white)](mailto:apaula-l@student.42sp.org.br)
-[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?&logo=Discord&logoColor=white)](https://discordapp.com/users/831148742602129418)
-
-[![wakatime](https://wakatime.com/badge/user/018c10e4-a64a-459f-ba8c-d9cdcdb29448.svg)](https://wakatime.com/@018c10e4-a64a-459f-ba8c-d9cdcdb29448)
-[![42 Game](https://img.shields.io/badge/Game-profile-cc99ff?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/apaula-l)
-
-<hr>
-    
 # 42 School Projects
 
 [![42SP](https://img.shields.io/badge/Intra-apaula_l-cc99ff?&logo=42&logoColor=white)](https://profile.intra.42.fr/users/apaula-l)
@@ -93,6 +81,7 @@ If you're scouting for a programming intern who personifies a blend of coding fi
   <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="GNL" width="85" height="85">
 </a>
 
+<hr>
 </div>
 <div align="center">
 
@@ -151,6 +140,18 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 <div align="center">
 <hr>
 
+# Socials
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ohama/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/estrelandoana/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?&logo=GMail&logoColor=white)](mailto:apaula-l@student.42sp.org.br)
+[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?&logo=Discord&logoColor=white)](https://discordapp.com/users/831148742602129418)
+
+[![wakatime](https://wakatime.com/badge/user/018c10e4-a64a-459f-ba8c-d9cdcdb29448.svg)](https://wakatime.com/@018c10e4-a64a-459f-ba8c-d9cdcdb29448)
+[![42 Game](https://img.shields.io/badge/Game-profile-cc99ff?&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/apaula-l)
+
+<hr>
+
 # Github Status
 
 [![Github Status](https://raw.githubusercontent.com/estrelandoana/github-transparent-status/master/generated/overview.svg)](#)
@@ -158,6 +159,8 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 
 ![](https://img.shields.io/badge/You've_been_spotted!-white?logoColor=black&style=for-the-badge)
 ![](https://komarev.com/ghpvc/?username=estrelandoana&color=ff69b4&style=for-the-badge&abbreviated=true)
+
+
 
 <hr>
 
