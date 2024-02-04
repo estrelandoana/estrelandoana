@@ -114,7 +114,7 @@ If you're scouting for a programming intern who personifies a blend of coding fi
 <a href="https://github.com/estrelandoana/Calculadora-de-Partidas-Rankeadas" tittle="Calculadora de Partidas Rankeadas">
   <img src="https://hermes.dio.me/lab_projects/badges/e0e576ce-268c-4d92-96cc-7092d6962c0b.png" alt="Calculadora de Partidas Rankeadas" width="85" height="85">
 </a>
-<a href="https://github.com/estrelandoana/Calculadora-de-Partidas-Rankeadas" tittle="Escrevendo as Classes de Um Jogo">
+<a href="https://github.com/estrelandoana/Escrevendo-as-Classes-de-Um-Jogo" tittle="Escrevendo as Classes de Um Jogo">
   <img src="https://hermes.dio.me/lab_projects/badges/0ac3357b-0b1d-4b81-b945-b9c31ea976ef.png" alt="Escrevendo as Classes de Um Jogo" width="85" height="85">
 </a>
 </div>
