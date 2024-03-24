@@ -78,7 +78,10 @@ If you're scouting for a programming intern who personifies a blend of coding fi
   <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" alt="GNL" width="85" height="85">
 </a>
 <a href="https://github.com/estrelandoana/Prinft" title="107/100">
-  <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="GNL" width="85" height="85">
+  <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" alt="Printf" width="85" height="85">
+</a>
+<a href="https://github.com/estrelandoana" title="125/100">
+  <img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" alt="Born2BeRoot" width="85" height="85">
 </a>
 
 <hr>
